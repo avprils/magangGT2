@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "date-arithmetic": "^4.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-emoji": "^1.10.0",
     "superheroes": "^3.0.0"
   }
